@@ -1,0 +1,10 @@
+item_id,item_name,brand,category,price,quantity,description,created_at,updated_at
+1,iPhone 12,Apple,Electronics,999.99,10,The latest iPhone model,15/06/2023 09:30:00,15/06/2023 09:30:00
+2,Samsung Galaxy S21,Samsung,Electronics,899.99,8,Powerful Android smartphone,15/06/2023 10:15:00,15/06/2023 11:45:00
+3,Nike Air Max,Nike,Shoes,129.99,15,Sporty and comfortable sneakers,15/06/2023 13:45:00,15/06/2023 13:45:00
+4,Sony PlayStation 5,Sony,Gaming,499.99,5,Next-generation gaming console,15/06/2023 14:30:00,15/06/2023 15:00:00
+5,Nike Air Max,Nike,Shoes,129.99,15,Sporty and comfortable sneakers,15/06/2023 13:45:00,15/06/2023 13:45:00
+6,Amazon Echo Dot,Amazon,Smart Home,49.99,12,Voice-controlled smart speaker,15/06/2023 16:20:00,15/06/2023 16:20:00
+7,Levi's 501 Jeans,Levi's,Clothing,79.99,20,Classic denim jeans,15/06/2023 17:10:00,15/06/2023 17:10:00
+8,Canon EOS Rebel T7i,Canon,Cameras,799.99,3,High-quality DSLR camera,15/06/2023 18:45:00,15/06/2023 18:45:00
+9,Canon EOS Rebel T7i,Canon,Cameras,799.99,3,High-quality DSLR camera,15/06/2023 18:45:00,15/06/2023 18:45:00
